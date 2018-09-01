@@ -1,7 +1,7 @@
 const test = require('tape')
 const namehash = require('../')
 
-// Test results specified in original ENS Proposal:
+// Test results specified in original WNS Proposal:
 // https://github.com/ethereum/EIPs/issues/137
 
 test('empty name', (t) => {
