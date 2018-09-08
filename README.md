@@ -1,8 +1,11 @@
-# Wan WNS Namehash [![CircleCI](https://circleci.com/gh/TyrionShared/wan-wns-namehash.svg?style=svg)](https://circleci.com/gh/TyrionShared/wan-wns-namehash)
+# Wan WNS Namehash 
+
+[![CircleCI][circle-image]][circle-url]
+[![Coverage Status][coveralls-image]][coveralls-url]
+[![dependency status][dep-image]][dep-url]
+[![NPM][npm-image]][npm-url]
 
 A javascript library for generating Wanchain Name Service (WNS) namehashes per [spec](https://github.com/wanchain/EIPs/issues/137).
-
-[Available on NPM](https://www.npmjs.com/package/wan-wns-namehash)
 
 ## Installation
 
@@ -35,3 +38,11 @@ namehash.normalize() doesn't automagically remap those, and so other precautions
 
 This module supports advanced JavaScript syntax, but exports an ES5-compatible module. To re-build the exported module after making changes, run `npm run bundle` (must have [browserify](http://browserify.org/) installed).
 
+[circle-image]: https://circleci.com/gh/WanJS/wan-wns-namehash.svg?style=svg
+[circle-url]: https://circleci.com/gh/WanJS/wan-wns-namehash
+[dep-image]: https://david-dm.org/WanJS/wan-wns-namehash.svg
+[dep-url]: https://david-dm.org/WanJS/wan-wns-namehash
+[coveralls-image]: https://coveralls.io/repos/github/WanJS/wan-wns-namehash/badge.svg?branch=dev
+[coveralls-url]: https://coveralls.io/github/WanJS/wan-wns-namehash?branch=dev
+[npm-image]: http://img.shields.io/npm/v/wan-wns-namehash.svg
+[npm-url]: https://www.npmjs.org/package/wan-wns-namehash
