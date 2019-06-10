@@ -38,11 +38,11 @@ namehash.normalize() doesn't automagically remap those, and so other precautions
 
 This module supports advanced JavaScript syntax, but exports an ES5-compatible module. To re-build the exported module after making changes, run `npm run bundle` (must have [browserify](http://browserify.org/) installed).
 
-[circle-image]: https://circleci.com/gh/WanJS/wan-wns-namehash.svg?style=svg
-[circle-url]: https://circleci.com/gh/WanJS/wan-wns-namehash
-[dep-image]: https://david-dm.org/WanJS/wan-wns-namehash.svg
-[dep-url]: https://david-dm.org/WanJS/wan-wns-namehash
-[coveralls-image]: https://coveralls.io/repos/github/WanJS/wan-wns-namehash/badge.svg?branch=dev
-[coveralls-url]: https://coveralls.io/github/WanJS/wan-wns-namehash?branch=dev
+[circle-image]: https://circleci.com/gh/wandevs/wan-wns-namehash.svg?style=svg
+[circle-url]: https://circleci.com/gh/wandevs/wan-wns-namehash
+[dep-image]: https://david-dm.org/wandevs/wan-wns-namehash.svg
+[dep-url]: https://david-dm.org/wandevs/wan-wns-namehash
+[coveralls-image]: https://coveralls.io/repos/github/wandevs/wan-wns-namehash/badge.svg?branch=dev
+[coveralls-url]: https://coveralls.io/github/wandevs/wan-wns-namehash?branch=dev
 [npm-image]: http://img.shields.io/npm/v/wan-wns-namehash.svg
 [npm-url]: https://www.npmjs.org/package/wan-wns-namehash

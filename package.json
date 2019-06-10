@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/WanJS/wan-wns-namehash.git"
+    "url": "git+ssh://git@github.com/wandevs/wan-wns-namehash.git"
   },
   "keywords": [
     "Wanchain",
@@ -20,9 +20,9 @@
   "author": "Tyrion70 <tyrion70@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/WanJS/wan-wns-namehash/issues"
+    "url": "https://github.com/wandevs/wan-wns-namehash/issues"
   },
-  "homepage": "https://github.com/WanJS/wan-wns-namehash#readme",
+  "homepage": "https://github.com/wandevs/wan-wns-namehash#readme",
   "devDependencies": {
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
